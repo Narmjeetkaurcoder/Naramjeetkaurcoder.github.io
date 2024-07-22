@@ -26,3 +26,7 @@ This is the discription of ****STUDENT INDUCTION PROGRAM****
 | 18/07/2024 | Dr. Jasvir Singh Grewal (Auditorium) | Told about NSS and how to be apart of NSS |
 | 19/07/2024 | Dr. Kanwardeep Kaur (Auditorium) | Highlighted the importance of C in life and quality of confidence at the time of placements |
 | 19/07/2024 | Dr. Jaswinder Singh (Auditorium) | Told tricks of maths and proved basic Physics |
+| 22/07/2024 | Dr.S.B Singh (Auditorium) | Shared some motivational words and experiences of his life |
+| 22/07/2024 | Dr.Pushpinder Singh (Auditorium) | Told his experiences and motivational stories |
+| 22/07/2024 | Sangita Mam (Auditorium) |
+Told about pollution and experiences of her life |
