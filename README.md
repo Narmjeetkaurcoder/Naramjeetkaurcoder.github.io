@@ -29,3 +29,5 @@ This is the discription of ****STUDENT INDUCTION PROGRAM****
 | 22/07/2024 | Dr.S.B Singh (Auditorium) | Shared some motivational words and experiences of his life |
 | 22/07/2024 | Dr.Pushpinder Singh (Auditorium) | Told his experiences and motivational stories |
 | 22/07/2024 | Sangita Mam (Auditorium) | Told about pollution and experiences of her life |
+| 23/07/2024 | Peer Interaction (About Canva) | Told about how to create posters  |
+
