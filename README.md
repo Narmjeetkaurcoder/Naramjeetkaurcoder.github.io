@@ -29,5 +29,13 @@ This is the discription of ****STUDENT INDUCTION PROGRAM****
 | 22/07/2024 | Dr.S.B Singh (Auditorium) | Shared some motivational words and experiences of his life |
 | 22/07/2024 | Dr.Pushpinder Singh (Auditorium) | Told his experiences and motivational stories |
 | 22/07/2024 | Sangita Mam (Auditorium) | Told about pollution and experiences of her life |
-| 23/07/2024 | Peer Interaction (About Canva) | Told about how to create posters  |
-| 23/07/2024 | Math Lecture by prof. Sandeep Kaur Gill | Do Question Integration |
+| 23/07/2024 | Peer Interaction (About Canva) | Told about how to create posters  | 
+| 23/07/2024 | Math Lecture by prof. Sandeep Kaur Gill | Do Question of Integration |
+| 24/07/2024 | Mr.Garuravdeep Singh (Auditorium) | Told his life story and motivational talk |
+| 24/07/2024 | Er.Lakhveer Singh (Auditorium) | Told about CML and NPTEL |
+| 24/07/2024 | Causmic Club (Auditorium) | Told about events and how to join causmic club |
+| 25/07/2024 | Math Lecture by Prof. Sandeep Kaur Gill | Do Question of Integration |
+| 25/07/2024 | Math Lecture by Prof. Sukhminder Singh | Do Question of Derivatives |
+| 25/07/2024 | Math test | |
+| 26/07/2024 | Dr.Kanwalpreet Kaur Bhatt (Auditorium) | Told about Meditation |
+| 26/07/2024 | Valedictory (Auditorium) | Cultural Activities |
