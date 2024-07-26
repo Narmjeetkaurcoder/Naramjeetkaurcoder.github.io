@@ -1,5 +1,5 @@
 Wishing the warm greetings to everyone.
-This is the discription of ****STUDENT INDUCTION PROGRAM**** 
+This is the discription of ****STUDENT INDUCTION PROGRAM****
 
 | Date | Lecture | Description |
 | ----------- | ----------- | ----------- | 
